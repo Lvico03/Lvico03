@@ -27,10 +27,16 @@ I sit at the intersection of biology, chemistry and computation — coming from 
 
 ### 🌐 Connect With Me
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/ludovico-salmin-2b9323376/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:your-email@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="https://www.instagram.com/ludovicosalmin/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:ludovico.salmin@studenti.unimi.it" target="_blank">
+    <img src="https://img.shields.io/badge/Email%20(UniMi)-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email UniMi" />
+  </a>
+  <a href="mailto:ludovico.salmin@mail.polimi.it" target="_blank">
+    <img src="https://img.shields.io/badge/Email%20(PoliMi)-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email PoliMi" />
   </a>
 </p>
