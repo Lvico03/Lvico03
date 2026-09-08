@@ -1,5 +1,5 @@
 # Hi there, I'm Ludovico 👋
-### 🧬 Bioinformatics MSc Student @ Politecnico di Milano & University degli Studi di Milano
+### 🧬 Bioinformatics MSc Student @ Politecnico di Milano & Università degli Studi di Milano
 I sit at the intersection of biology, chemistry and computation — coming from a background in medical biotechnology and with experience in a wet lab, I'm now building the computational, data-driven side of that foundation. Along the way, I discovered that statistics and programming intrigue me just as much as biology and chemistry ever did.
 
 ---
