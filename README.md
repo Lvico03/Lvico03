@@ -24,18 +24,6 @@ I sit at the intersection of biology, chemistry and computation — coming from 
 
 ---
 
-### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BCG2026_Salmin_L&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BCG2026_Salmin_L&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="150" />
-</div>
-<br/>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BCG2026_Salmin_L&theme=radical&hide_border=true" alt="Streak Stats" />
-</div>
-
----
-
 ### 🌐 Connect With Me
 <p align="left">
   <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank">
