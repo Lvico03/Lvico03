@@ -6,7 +6,8 @@ I sit at the intersection of biology, chemistry and computation — coming from 
 
 ### 📌 About Me
 - 🎓 Background: **BSc in Medical Biotechnology → MSc in Bioinformatics**
-- ✈️ Abroad: **BSc Thesis project at KU Leuven**, **Erasmus exchange semester at the University of Copenhagen**
+- ✈️ Abroad: **BSc Thesis project at KU Leuven, [Laboratory of Molecular and Cellular Signaling](https://gbiomed.kuleuven.be/english/research/50000618/50753344)**
+- ✨ What's new?: **Erasmus exchange semester at the University of Copenhagen**
 - 📫 How to reach me: **ludovico.salmin@studenti.unimi.it**, **ludovico.salmin@mail.polimi.it**
 
 ---
