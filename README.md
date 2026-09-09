@@ -18,7 +18,7 @@ I sit at the intersection of biology, chemistry and computation — coming from 
 | :--- | :--- |
 | **Languages** | `Python` • `R` • `SQL` • `Bash`|
 | **Scientific Libraries** | `NumPy` • `Pandas` • `SciPy` • `Scikit-learn` • `PyTorch` • `Biopython` • `Bioconductor` |
-| **Bioinformatics Tools** | `SAMtools` • `BEDtools` • `BLAST` • `VEP` • `GATK` • `BWA` |
+| **Bioinformatics Tools** | `SAMtools` • `BEDtools` • `BLAST` • `VEP` • `BWA` |
 | **Environments & IDEs** | `PyCharm` • `VS Code` • `RStudio` • `Jupyter Notebooks` |
 | **Utilities & Workflow** | `Git / GitHub` • `LaTeX` • `Conda` |
 | **Scientific Writing** | `LaTeX` • `Overleaf` • `Word` • `Obsidian` |
