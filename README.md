@@ -30,9 +30,6 @@ I sit at the intersection of biology, chemistry and computation — coming from 
   <a href="https://www.linkedin.com/in/ludovico-salmin-2b9323376/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.instagram.com/ludovicosalmin/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
   <a href="mailto:ludovico.salmin@studenti.unimi.it" target="_blank">
     <img src="https://img.shields.io/badge/Email%20(UniMi)-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email UniMi" />
   </a>
